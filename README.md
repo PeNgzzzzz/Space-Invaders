@@ -1,5 +1,8 @@
 # Space-Invaders
 
+<img src="https://github.com/PeNgzzzzz/Space-Invaders/blob/main/Preview1.png" alt="Preview1" align="center" width="auto" height="auto" />
+<img src="https://github.com/PeNgzzzzz/Space-Invaders/blob/main/Preview2.png" alt="Preview2" align="center" width="auto" height="auto" />
+
 ## Introduction
 This project is a Kotlin/JavaFX implementation of the classic Space Invaders game. The game features multiple levels, interactive controls, and various gameplay elements to keep the player engaged.
 
